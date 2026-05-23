@@ -1,4 +1,4 @@
-# HiP — Hydraulics & Pneumatics Simulations
+# H&P — Hydraulics & Pneumatics Simulations
 
 All circuits are built and simulated in **FluidSim** (`.ct` files), covering a wide range of control techniques — from basic directional control to advanced GRAFCET-based sequential logic.
 
