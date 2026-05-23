@@ -73,7 +73,5 @@ HiP/
 
 ---
 
-## Author
 
-**Matej Kardum**
-GitHub: [github.com/MatkoKardum](https://github.com/MatkoKardum)
+*Made by Matej Kardum
