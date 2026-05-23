@@ -1,13 +1,13 @@
 # H&P — Hydraulics & Pneumatics Simulations
 
-All circuits are built and simulated in **FluidSim** (`.ct` files), covering a wide range of control techniques — from basic directional control to advanced GRAFCET-based sequential logic.
+All circuits are built and simulated in **FluidSim** (`.ct` files), covering a wide range of control techniques - from basic directional control to advanced GRAFCET-based sequential logic.
 
 ---
 
 ## Tools Used
 
-- **FluidSim** — pneumatic and hydraulic circuit simulation
-- **GRAFCET** — sequential function chart control logic
+- **FluidSim** - pneumatic and hydraulic circuit simulation
+- **GRAFCET** - sequential function chart control logic
 
 ---
 
@@ -60,16 +60,16 @@ HiP/
 
 | Circuit | Description |
 |---|---|
-| ![](screenshots/s1.PNG) | **Vacuum Control — Electric/Digital** — electropneumatic vacuum gripper with digital logic |
-| ![](screenshots/s2.PNG) | **Logic Functions + Counter + Time Control** — combined logic with pneumatic counter and timer |
-| ![](screenshots/s3.PNG) | **Drilling Machine — Synchronized Motion** — two-cylinder coordinated sequence |
-| ![](screenshots/s4.PNG) | **Counter — Digital Technology** — GRAFCET with counter logic and LOGO! implementation |
-| ![](screenshots/s5.PNG) | **Time Control — Digital Technology** — timer-based sequential control |
-| ![](screenshots/s6.PNG) | **Stamping Machine — Synchronized Motion** — multi-step synchronized press sequence |
-| ![](screenshots/s7.PNG) | **Pressure Control — Digital Technology** — pressure sensor input with digital control |
-| ![](screenshots/s8.PNG) | **Logic Functions — Digital Technology** — AND/OR logic with GRAFCET integration |
-| ![](screenshots/s9.PNG) | **Drilling Machine** — pneumatic drill press circuit with sequential cylinder control |
-| ![](screenshots/s10.PNG) | **Matrix Sort (3×3 & 4×2)** — multi-cylinder matrix sorting sequences with two layout configurations |
+| ![](screenshots/s1.PNG) | **Vacuum Control - Electric/Digital** - electropneumatic vacuum gripper with digital logic |
+| ![](screenshots/s2.PNG) | **Logic Functions + Counter + Time Control** - combined logic with pneumatic counter and timer |
+| ![](screenshots/s3.PNG) | **Drilling Machine - Synchronized Motion** - two-cylinder coordinated sequence |
+| ![](screenshots/s4.PNG) | **Counter - Digital Technology** - GRAFCET with counter logic |
+| ![](screenshots/s5.PNG) | **Time Control - Digital Technology** - timer-based sequential control |
+| ![](screenshots/s6.PNG) | **Stamping Machine - Synchronized Motion** - multi-step synchronized press sequence |
+| ![](screenshots/s7.PNG) | **Pressure Control - Digital Technology** - pressure sensor input with digital control |
+| ![](screenshots/s8.PNG) | **Logic Functions - Digital Technology** - AND/OR logic with GRAFCET integration |
+| ![](screenshots/s9.PNG) | **Drilling Machine** - pneumatic drill press circuit with sequential cylinder control |
+| ![](screenshots/s10.PNG) | **Matrix Sort (3×3 & 4×2)** - multi-cylinder matrix sorting sequences with two layout configurations |
 
 ---
 
